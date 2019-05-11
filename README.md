@@ -2,7 +2,6 @@
 
 ## Order:
 
-----------
 
 intro.ipynb
 
