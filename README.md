@@ -1,12 +1,13 @@
 # AmiiEducates-EXCPE
 
 Order:
-
+----------
 
 intro.ipynb
 
 more_datasets.ipynb
 
+----------
 
 classification.ipynb
 
@@ -18,6 +19,7 @@ k-nn.ipynb
 
 linear_regression.ipynb
 
+----------
 
 nonlinear_features.ipynb
 
