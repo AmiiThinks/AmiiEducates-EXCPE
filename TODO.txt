@@ -1,9 +1,3 @@
 Change linear regression dataset and visualize
-Put day 1 together and remove giveaways
-Test more datasets and provide one classification and one regression algorithm
-Review slides
-Bias vs. variance needed?
-Add comments and markdowns
-Change overfitting to linear regression?
-What metrics?
-Add Amii Educates graphics
+Change overfitting to linear regression/classification?
+Transition to Plotly
